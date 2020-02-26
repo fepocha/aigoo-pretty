@@ -33,5 +33,5 @@ var reverseList = function(head) {
   }
 };
 
-// Runtime: 64 ms, faster than 40.07% of JavaScript online submissions for Reverse Linked List.
+// Runtime: 52 ms, faster than 95.30% of JavaScript online submissions for Reverse Linked List.
 // Memory Usage: 35.7 MB, less than 15.22% of JavaScript online submissions for Reverse Linked List.
