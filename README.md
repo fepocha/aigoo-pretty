@@ -4,3 +4,6 @@
 ![logo](assets/logo.jpeg)
 
 주 1회 알고리즘 목표로 solution 공유
+
+1. 해당 폴더에 이름.md | 이름.js 등 자유롭게 올릴 수 있다.
+(의무 x)
