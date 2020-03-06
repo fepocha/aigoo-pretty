@@ -33,3 +33,7 @@ function solution(A) {
     return A.length++
 }
 ```
+
+comment #2
+
+사실 indexOf 를 사용하기 때문에 퍼포먼스면에서 생각한 것보다 큰 효율을 내지 않음. indexOf는 기본적으로 배열을 순회하는 배열의 메소드이기 때문에 퍼포먼스 향상을 위해선 다른 접근 방법을 필요로 함... 
