@@ -1,17 +1,22 @@
 # Palinedrome Linked List - Easy
 
-[LeetCode](https://leetcode.com/problems/palindrome-linked-list/)
+## Link 
+[LeetCode - Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)
+
+## Description 
 
 Given a singly linked list, determine if it is a palindrome.
 
-Example 1:
+### Example 1:
 
 Input: 1->2
 Output: false
-Example 2:
+
+
+### Example 2:
 
 Input: 1->2->2->1
 Output: true
 
-Follow up:
+###  Follow up
 Could you do it in O(n) time and O(1) space?
