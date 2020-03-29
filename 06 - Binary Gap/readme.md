@@ -1,5 +1,9 @@
 # Binary Gap
+
+## Link 
 [Codility](https://app.codility.com/programmers/lessons/1-iterations/binary_gap)
+
+## Description 
 
 A binary gap within a positive integer N is any maximal sequence of consecutive zeros that is surrounded by ones at both ends in the binary representation of N.
 
@@ -17,4 +21,16 @@ Write an efficient algorithm for the following assumptions:
 
 N is an integer within the range [1..2,147,483,647].
 
+### Example 1:
+
+Input: 9
+Output: 2
+
+
+### Example 2:
+
+Input: 529
+Output: 4
+
 Copyright 2009–2020 by Codility Limited. All Rights Reserved. Unauthorized copying, publication or disclosure prohibited.
+
